@@ -1,0 +1,7 @@
+C:\Users\mario\OneDrive\Documents\01-ESILV\A3\semestre 5 - Dorset\C#\W1\W1\bin\Debug\W1.exe.config
+C:\Users\mario\OneDrive\Documents\01-ESILV\A3\semestre 5 - Dorset\C#\W1\W1\bin\Debug\W1.exe
+C:\Users\mario\OneDrive\Documents\01-ESILV\A3\semestre 5 - Dorset\C#\W1\W1\bin\Debug\W1.pdb
+C:\Users\mario\OneDrive\Documents\01-ESILV\A3\semestre 5 - Dorset\C#\W1\W1\obj\Debug\W1.csproj.AssemblyReference.cache
+C:\Users\mario\OneDrive\Documents\01-ESILV\A3\semestre 5 - Dorset\C#\W1\W1\obj\Debug\W1.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive\Documents\01-ESILV\A3\semestre 5 - Dorset\C#\W1\W1\obj\Debug\W1.exe
+C:\Users\mario\OneDrive\Documents\01-ESILV\A3\semestre 5 - Dorset\C#\W1\W1\obj\Debug\W1.pdb
